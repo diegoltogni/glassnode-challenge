@@ -16,7 +16,7 @@ More info about the task can be found at the email received from Glassnode [here
 
 Make sure you're at the right place and create a new python environment using `venv`:
 ```
-cd /<project-path>/balena_task
+cd /<project-path>/glassnode-challenge
 python3 -m venv .venv
 ```
 
